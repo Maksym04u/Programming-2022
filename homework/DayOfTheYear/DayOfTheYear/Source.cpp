@@ -4,7 +4,7 @@ using namespace std;
 void main()
 {
 	int k;
-	cout << "Enter number of the day of the year:" << endl;
+	cout << "Enter number of the day of the year" << endl;
 	cin >> k;
 	while (k > 7)
 	{

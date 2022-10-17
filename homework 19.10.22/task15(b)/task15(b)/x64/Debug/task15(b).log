@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\UserPC\source\repos\Programming-2022\homework\task15(b)\task15(b)\Source.cpp(8,26): warning C4305: '=': truncation from '__int64' to 'int'
+C:\Users\UserPC\source\repos\Programming-2022\homework\task15(b)\task15(b)\Source.cpp(8,9): warning C4309: '=': truncation of constant value
+  task15(b).vcxproj -> C:\Users\UserPC\source\repos\Programming-2022\homework\task15(b)\x64\Debug\task15(b).exe

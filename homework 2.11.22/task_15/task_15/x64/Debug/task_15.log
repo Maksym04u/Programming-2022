@@ -1,0 +1,8 @@
+﻿  Source.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(55,19): error C2064: term does not evaluate to a function taking 2 arguments
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.33.31629\include\utility(54): message : see reference to function template instantiation 'const _Ty &std::min<double,double>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)' being compiled
+          with
+          [
+              _Ty=double,
+              _Pr=double
+          ]

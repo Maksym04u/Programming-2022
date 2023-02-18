@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\UserPC\source\repos\Programming-2022\homework 22.02.23\Bank\Bank\Source.cpp(44,71): warning C4930: 'Client client(void)': prototyped function not called (was a variable definition intended?)
+C:\Users\UserPC\source\repos\Programming-2022\homework 22.02.23\Bank\Bank\Source.cpp(84): warning C4715: 'Find_by_name': not all control paths return a value
+  Bank.vcxproj -> C:\Users\UserPC\source\repos\Programming-2022\homework 22.02.23\Bank\x64\Debug\Bank.exe

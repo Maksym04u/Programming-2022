@@ -1,0 +1,3 @@
+Mobile Samsung1 Samsung 500 black 32
+Radio Samsung2 Samsung 800 25 False
+Radio Samsung_Galaxy Samsung 900 20 True
